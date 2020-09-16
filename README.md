@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://github.com/HeyHeyChicken/NOVA/edit/master/resources/github-logo.png" width="300">
+<img src="https://github.com/HeyHeyChicken/Python---Right-Price/blob/master/resources/github-logo.png" width="300">
 
 **Right Price** is my frist Pyhton program.<br>
 <br>

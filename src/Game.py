@@ -1,6 +1,6 @@
 import random
-from src.Article import Article
-from src.Player import Player
+from Article import Article
+from Player import Player
 
 
 class Game:

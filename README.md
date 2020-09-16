@@ -2,7 +2,7 @@
  
 <img src="https://github.com/HeyHeyChicken/Python---Right-Price/blob/master/resources/github-logo.png" width="300">
 
-**Right Price** is my frist Python program.<br>
+**Right Price** is my first Python program.<br>
 <br>
 </div>
 <br><br>

@@ -5,7 +5,7 @@
 **Right Price** is my first Python program.<br>
 <br>
 </div>
-<br><br>
+<br>
 
 
 ## Installation

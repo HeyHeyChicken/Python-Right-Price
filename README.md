@@ -1,9 +1,9 @@
 <div align="center">
  
 <img src="https://github.com/HeyHeyChicken/Python---Right-Price/blob/master/resources/github-logo.png" width="300">
-
-**Right Price** is my first Python program.<br>
 <br>
+**Right Price** is my first Python program.<br>
+
 </div>
 <br>
 

@@ -12,7 +12,7 @@
 
 1) Clone it directly from GitHub.
 ```
-git clone https://github.com/HeyHeyChicken/Python---Right-Price.git
+git clone https://github.com/HeyHeyChicken/Python-Right-Price.git
 ```
 
 <br>
